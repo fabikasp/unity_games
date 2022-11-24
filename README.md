@@ -12,6 +12,6 @@ In Unity entwickelte 2D- und 3D-Spiele.
 <table>
   <tr>
     <td><a href="https://unity.com/de">Unity</a></td>
-    <td>>Unity Technologies</td>
+    <td>Unity Technologies</td>
   </tr>
 </table>
